@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Keyvan2k/Keyvan2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python
+- 💬 Ask me about anything !
+- 📫 How to reach me: i mainly use discord so, just add me on Amministrare#3864 (just copy & paste it), or contact me on twitter
+ [https://twitter.com/Keyvan220F]
+- ⚡ currently Windows user, maybe in 1-2 months i'll switch to Linux
 
-Here are some ideas to get you started:
+###SKILLS
+- i already know C & C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/Keyvan2k/Keyvan2k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyvan2k&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/keyvan2k/keyvan2k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Keyvan2k&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Keyvan2k's GitHub Stats" />
+</a>
