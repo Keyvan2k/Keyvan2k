@@ -4,7 +4,7 @@
 - 💬 Ask me about anything !
 - 📫 How to reach me: i mainly use discord so, just add me on Amministrare#3864 (just copy & paste it), or contact me on twitter
  [https://twitter.com/Keyvan220F]
-- ⚡ currently Windows user, maybe in 1-2 months i'll switch to Linux
+- ⚡ Linux user distro : manjaro
 
 ### SKILLS
 - i already know C & C++ & python.
