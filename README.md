@@ -4,7 +4,8 @@
 - 💬 Ask me about anything !
 - 📫 How to reach me: i mainly use discord so, just add me on Amministrare#3864 (just copy & paste it), or contact me on twitter
  [https://twitter.com/Keyvan220F]
-- ⚡ Linux user,distro : manjaro
+- ⚡ Linux user,distro : Parrot
+
 
 ### SKILLS
 - i already know C & C++ & python.
