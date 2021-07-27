@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Sockdt Programminc in C & C++
+
 - 💬 Ask me about anything !
 - 📫 How to reach me: i mainly use discord so, just add me on Amministrare#0111 (just copy & paste it), or contact me on twitter
  [https://twitter.com/Keyvan220F]
