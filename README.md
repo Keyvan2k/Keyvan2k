@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Sockdt Programminc in C & C++
+- 🌱 I’m currently learning Socket Programminc in C & C++
 
 - 💬 Ask me about anything !
 - 📫 How to reach me: i mainly use discord so, just add me on Amministrare#0111 (just copy & paste it), or contact me on twitter
@@ -9,7 +9,7 @@
 
 
 ### SKILLS
-- i already know C & C++ & python.
+- i already know C & C++ & python & JavaScript.
 
 
 ## &#x1f4c8; My GitHub Stats
